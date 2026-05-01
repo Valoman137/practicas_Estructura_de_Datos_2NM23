@@ -1,6 +1,6 @@
 # Prácticas de Estructura de Datos – 2NM23
 
-Este repositorio contiene las prácticas realizadas durante el *Segundo Semestre* de *Estructura de Datos* del grupo *2NM23, impartido por el profesor **Yventz Entzana Garduño*.
+Este repositorio contiene las prácticas realizadas durante el *Segundo Semestre* de *Estructura de Datos* de la secuencia *2NM23*, impartido por el profesor **Yventz Entzana Garduño*.
 
 ---
 
